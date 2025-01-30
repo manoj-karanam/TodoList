@@ -20,3 +20,11 @@ to check the API calls
 
 ++++++++++++++++++
 
+API prefix : localhost:8080/api/v1/tasks/
+
+Sample: Task (JSON)
+
+{
+    "task": "Updated complete TO DO App",
+    "completed": true
+}
